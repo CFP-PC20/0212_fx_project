@@ -1,0 +1,22 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+.mytable {
+	-fx-background-color: #90A090;
+}
+
+.moderno  {
+	-fx-background-color: #405050;
+}
+
+.botoncito {
+	-fx-background-color: #90A090;
+}
+
+.botoncito:hover {
+	-fx-background-color: #D0F0D0;
+}
+
+.botoncito:active {
+	-fx-background-color: #F0F0F0;
+}
